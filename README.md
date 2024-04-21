@@ -3,6 +3,7 @@
 
 -  Task name **Javascript - Array method**
 -  Language used **JavaScript**
+-  Description **From the provided Rest Countries data, I have solved the five problems using Filter function, Map function, Reduce function and forEach function and fetch the datas.**
      
 -  My Contact number : **6369303696**
 
